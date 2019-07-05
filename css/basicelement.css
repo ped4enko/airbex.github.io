@@ -170,20 +170,10 @@ a:focus {
 
     .intro .intro-body .brand-heading {
         font-size: 60px;
-        transform: rotate(-2deg);
-        -ms-transform: rotate(-2deg);
-        -moz-transform: rotate(-2deg);
-        -webkit-transform: rotate(-2deg);
-        -o-transform: rotate(-2deg);
     }
 
     .intro .intro-body .intro-text {
         font-size: 25px;
-        transform: rotate(-2deg);
-        -ms-transform: rotate(-2deg);
-        -moz-transform: rotate(-2deg);
-        -webkit-transform: rotate(-2deg);
-        -o-transform: rotate(-2deg);
     }
 }
 
